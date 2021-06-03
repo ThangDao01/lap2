@@ -1,0 +1,6 @@
+C:\Users\Thang\RiderProjects\Lap2\ArrayClass\bin\Debug\ArrayClass.exe
+C:\Users\Thang\RiderProjects\Lap2\ArrayClass\bin\Debug\ArrayClass.pdb
+C:\Users\Thang\RiderProjects\Lap2\ArrayClass\obj\Debug\ArrayClass.csprojAssemblyReference.cache
+C:\Users\Thang\RiderProjects\Lap2\ArrayClass\obj\Debug\ArrayClass.csproj.CoreCompileInputs.cache
+C:\Users\Thang\RiderProjects\Lap2\ArrayClass\obj\Debug\ArrayClass.exe
+C:\Users\Thang\RiderProjects\Lap2\ArrayClass\obj\Debug\ArrayClass.pdb

@@ -1,0 +1,6 @@
+C:\Users\Thang\RiderProjects\Lap2\ObjectArray\bin\Debug\ObjectArray.exe
+C:\Users\Thang\RiderProjects\Lap2\ObjectArray\bin\Debug\ObjectArray.pdb
+C:\Users\Thang\RiderProjects\Lap2\ObjectArray\obj\Debug\ObjectArray.csprojAssemblyReference.cache
+C:\Users\Thang\RiderProjects\Lap2\ObjectArray\obj\Debug\ObjectArray.csproj.CoreCompileInputs.cache
+C:\Users\Thang\RiderProjects\Lap2\ObjectArray\obj\Debug\ObjectArray.exe
+C:\Users\Thang\RiderProjects\Lap2\ObjectArray\obj\Debug\ObjectArray.pdb

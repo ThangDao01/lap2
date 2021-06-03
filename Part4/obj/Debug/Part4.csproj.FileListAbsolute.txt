@@ -1,0 +1,6 @@
+C:\Users\Thang\RiderProjects\Lap2\Part4\bin\Debug\Part4.exe
+C:\Users\Thang\RiderProjects\Lap2\Part4\bin\Debug\Part4.pdb
+C:\Users\Thang\RiderProjects\Lap2\Part4\obj\Debug\Part4.csprojAssemblyReference.cache
+C:\Users\Thang\RiderProjects\Lap2\Part4\obj\Debug\Part4.csproj.CoreCompileInputs.cache
+C:\Users\Thang\RiderProjects\Lap2\Part4\obj\Debug\Part4.exe
+C:\Users\Thang\RiderProjects\Lap2\Part4\obj\Debug\Part4.pdb
